@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Vinay Raut</h1>
+<div>
+  <h1 align="center">Hi 👋, I'm Vinay Raut</h1>
+</div>
 <h3 align="center">
 AI & Data Science enthusiast 🚀 | Turning data into real-world impact
 </h3>
